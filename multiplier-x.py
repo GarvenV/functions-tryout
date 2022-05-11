@@ -1,14 +1,8 @@
-dd = int(input('WAT CIJFER'))
+vv = int(input('wat cijfer'))
 
-def appel(dd):
+def appel(vv):
     for x in range(1,11):
-        x * dd
-        print(x*dd)
+        x * vv
+        print(x*vv)
 
-appel(dd)
-
-
-
-
-
-
+appel(vv)
